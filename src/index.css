@@ -1,0 +1,47 @@
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.parent {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.child {
+  background-color: rgb(158, 179, 179);
+  border-radius: 10px;
+  margin: 10px;
+  padding: 30px;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+}
+
+.length {
+  width: 500px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.btn-copy {
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.btn-copy:hover {
+  background-color: rgb(109, 131, 124);
+  color: white;
+}
+
+.set-values {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 10px;
+  text-align: center;
+}
