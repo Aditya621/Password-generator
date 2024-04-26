@@ -1,16 +1,16 @@
 .title {
   display: flex;
   justify-content: center;
+  position: relative;
+  height: 100px;
 }
 
 
 .child {
   background-color: rgb(158, 179, 179);
   border-radius: 10px;
-  margin: 10px;
+  margin:80px;
   padding: 30px;
-  margin-left: 10%;
-  margin-right: 10%;
 }
 
 .input {
@@ -42,4 +42,5 @@
   gap: 10px;
   margin: 10px;
   text-align: center;
+  align-items: center;
 }

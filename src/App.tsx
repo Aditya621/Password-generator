@@ -35,7 +35,7 @@ function App() {
     <div className='parent'>
 
       <div className="title">
-        <h1>Password Generator</h1>
+        <h1 style={{paddingTop:'60px'}}>Password Generator</h1>
       </div>
       <div className="child">
         <div className="input">
