@@ -3,16 +3,14 @@
   justify-content: center;
 }
 
-.parent {
-  margin-left: 20%;
-  margin-right: 20%;
-}
 
 .child {
   background-color: rgb(158, 179, 179);
   border-radius: 10px;
   margin: 10px;
   padding: 30px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .input {
